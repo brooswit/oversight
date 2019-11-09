@@ -1,0 +1,22 @@
+{
+  "name": "oversight",
+  "version": "0.0.1",
+  "description": "## Quickstart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brooswit/oversight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brooswit/oversight/issues"
+  },
+  "homepage": "https://github.com/brooswit/oversight#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
