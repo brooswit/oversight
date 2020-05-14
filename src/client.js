@@ -1,7 +1,6 @@
 import THREE from "three";
 import CANNON from "cannon";
 
-/*
 var PointerLockControls = function ( camera, cannonBody ) {
 
     var eyeYPos = 2; // eyes are 2 meters above the ground
@@ -175,7 +174,7 @@ var PointerLockControls = function ( camera, cannonBody ) {
         yawObject.position.copy(cannonBody.position);
     };
 };
-*/
+
 
 var sphereShape, sphereBody, world, physicsMaterial, walls=[], balls=[], ballMeshes=[], boxes=[], boxMeshes=[];
 
