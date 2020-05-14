@@ -1,2 +1,2 @@
 npm install -g parcel-bundler
-node_modules/grunt/bin/grunt
+bash add_start.sh
