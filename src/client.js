@@ -351,7 +351,7 @@ function init() {
     scene.add( light );
 
 
-
+    console.log(sphereBody);
     controls = new PointerLockControls( camera , sphereBody );
     scene.add( controls.getObject() );
 
