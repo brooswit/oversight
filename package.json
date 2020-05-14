@@ -1,11 +1,12 @@
 {
     "name": "oversight",
-    "version": "0.0.13",
+    "version": "0.0.14",
     "description": "## Quickstart",
     "main": "index.js",
     "scripts": {
-        "start": "node index.js",
-        "test": "echo \"Error: no test specified\" && exit"
+        "start": "bash start.sh",
+        "test": "bash test.sh",
+        "dev": "bash dev.sh"
     },
     "repository": {
         "type": "git",
