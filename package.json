@@ -1,12 +1,13 @@
 {
     "name": "oversight",
-    "version": "0.0.33",
+    "version": "0.0.34",
     "description": "## Quickstart",
     "main": "index.js",
     "scripts": {
-        "start": "bash start.sh",
-        "test": "bash test.sh",
-        "dev": "bash dev.sh"
+        "build": "bash app_build.sh",
+        "start": "bash app_start.sh",
+        "test": "bash app_test.sh",
+        "dev": "bash app_dev.sh"
     },
     "repository": {
         "type": "git",
