@@ -1,2 +1,2 @@
 npm install -g parcel-bundler
-parcel
+node_modules/grunt/bin/grunt
