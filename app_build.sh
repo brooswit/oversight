@@ -1,2 +1,1 @@
-npm install -g parcel-bundler
-parcel build src/index.html -d ./src/public/
+node_modules/parcel-bundler/bin/cli.js build src/index.html -d ./src/public/
