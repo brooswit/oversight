@@ -1,6 +1,6 @@
 {
     "name": "oversight",
-    "version": "0.0.20",
+    "version": "0.0.21",
     "description": "## Quickstart",
     "main": "index.js",
     "scripts": {
