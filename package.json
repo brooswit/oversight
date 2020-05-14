@@ -1,6 +1,6 @@
 {
     "name": "oversight",
-    "version": "0.0.38",
+    "version": "0.0.39",
     "description": "## Quickstart",
     "main": "index.js",
     "scripts": {
@@ -26,5 +26,8 @@
         "grunt-contrib-watch": "^1.1.0",
         "grunt-shell": "^3.0.1",
         "three": "^0.116.1"
+    },
+    "devDependencies": {
+        "parcel-bundler": "^1.12.4"
     }
 }
